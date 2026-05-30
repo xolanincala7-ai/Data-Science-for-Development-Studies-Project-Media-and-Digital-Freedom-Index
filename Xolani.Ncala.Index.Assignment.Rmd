@@ -1,0 +1,520 @@
+---
+title: "Index.Ncala.Assignment"
+author: "Xolani"
+date: "2025-03-31"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+# Master of Arts in E-Science
+
+## Statistical Computing and Inference for the Social Sciences and Humanities  
+### (SOSS 7098) Research Report 1: Multi-Item Index  
+### **THE MEDIA AND DIGITAL FREEDOM INDEX SCORES**  
+
+&nbsp;  
+
+**University of Witswatersrand**  
+
+&nbsp;  
+
+**Student: Xolani Charles Ncala (2456543)**  
+
+&nbsp;  
+
+> *I know plagiarism is wrong; I have read the section in the Essay Writing Guide concerning plagiarism; and I declare that this Essay is my own work.*  
+
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;&nbsp;&nbsp;
+
+
+
+
+
+
+# Introduction
+
+### The Media and Digital Freedom Index 
+
+The **Media and Digital Freedom Index (MDFI)** originates from the idea of media and digital freedom as pertaining to the degree to which individuals and institutions of different nations can access, create, and disseminate information through both traditional media and digital platforms without excessive constraints imposed by governmental authorities, corporate entities, or social pressures.
+
+### Media Freedom Concept
+
+The media freedom concept is taken from Peter Takirambudde’s (1995) "Media Freedom and the Transition to Democracy in Africa", where he explores the function of media freedom in Africa’s democratic transition and the possibility that these transitions will either return to autocracy or move closer to democracy.In this sense, media freedom is taken as a component of a much broader transformation process rather than as a human rights issue in and of itself. Significantly, media freedom as defined by Takirambudde (1995:23) denotes:
+
+> *“The existence of conditions of freedom from governmental direction and equal availability of media resources [encompassing both broadcast and printed press] to facilitate the creation of a counterbalancing institution that is indispensable in a democratic society.”*
+
+The benefit of this perspective is that it extends beyond the individual liberties notion to encompass media freedom’s function in systemic societal and institutional change and as a significant pillar supporting a democratic society. According to Takirambudde’s ideas (1995:22), media freedom is essential for forming public opinion and is a prerequisite for the growth of trade unions, political parties, and other civil society organizations. It helps the community to be sufficiently educated, which makes it easier to make informed decisions and exercise the right to free speech toward the government.After all, a society cannot be deemed truly free if its citizens lack knowledge.
+
+### Digital Freedom Concept
+
+With regards to the concept of digital freedom, it is a concept expressed in the article *"Digital Speech and Democratic Culture"* by Jack Balkin (2004), which examines how free speech has changed in the digital era. Balkin argues that we should view expression more broadly in terms of democratic culture rather than just democratic processes.In essence, digital freedom highlights how digital technologies accentuate the cultural and participative aspects of freedom of expression and alter the conditions of speech. This relationship emerges from Balkin’s (2004:1) argument that:
+
+> *“In the digital age, the goal of free speech is to advance a democratic culture that incorporates both individual liberty and collective self-governance, or the capacity of every person to contribute to the creation and dissemination of culture.”*
+
+Balkin points out that the digital era gives people unprecedented chances to actively contribute to the creation and dissemination of culture, turning them from passive consumers into active participants. This is significant because, in order to preserve this progress in interaction, measures must be implemented through technical design and regulation, guaranteeing widespread access and involvement in society’s cultural discourse.Considering Balkin’s ideals, in this report, ‘digital freedom’ will be understood as the increased capacity of people to participate in cultural creation and expression made possible by digital technology, with an emphasis on collective participation in shaping a democratic culture.
+
+### Integration into the MDFI
+
+Together, Balkin’s (2004) idea of digital freedom as a way to promote democratic culture through participatory expression and Takirambudde’s (1995) conception of media freedom as a key component of democratic transformation offer a thorough basis for the **Media and Digital Freedom Index (MDFI)**.Through the integration of digital freedom’s emphasis on democratic cultural participation and wide access to information, with media freedom’s role in forming public opinion, bolstering civil society, guaranteeing democratic participation, and ensuring accountability, the MDFI successfully gauges the degree to which people and institutions can exercise their right to free expression on both traditional and digital platforms.Thus, the MDFI is an important quantification of media and digital freedom, which is crucial for determining the degree to which people and organizations can freely access, produce, and distribute information without excessive limitations. This is significant for guaranteeing openness, responsibility, and democratic involvement.
+
+# Component Measures
+
+### Political Context 
+The Political Context component of the Media and Digital Freedom Index (MDFI) assesses the extent to which a country’s political environment fosters or restricts media and digital freedoms. A free and independent media requires a political landscape that upholds democratic principles, ensures transparency, and protects journalists and content creators from intimidation or state interference. This metric considers a few factors, including the degree of safety for journalists and online activists, the existence of restrictive laws, political influence over media organizations, and government views toward press freedom. A restrictive political climate that is typified by state-controlled media, censorship, or legal harassment erodes the public’s access to a variety of information, which in turn restricts democratic participation and well-informed decision making. This component aids in determining whether governments actively promote or restrict media and digital freedoms by assessing these circumstances.
+
+### Media Impartiality
+
+The degree to which media sources report in a fair, impartial, and balanced manner is measured by media impartiality. As it guarantees that information is provided without excessive influence from political entities, business interests, or ideological biases, impartial media is crucial to preserving public trust. Excessively biased media can promote false information, skew public perception, and fuel social divisions. Neutrality in media is frequently compromised by partisan affiliations, corporate ownership, or government control, which restricts a range of opinions and critical thinking. A media environment that maintains objectivity promotes democratic discourse, informed decision-making, and increased accountability by offering a range of viewpoints without bias or manipulation.
+
+### Legal Framework
+
+Legal Framework looks at how well a nation’s laws and policies protect press freedom, digital rights, and freedom of expression. Online users, media outlets, and journalists are shielded from censorship, harassment, and unfair prosecution by a solid legal basis. This component consists of constitutional protections, independent judicial supervision, and legal safeguards against laws that could be abused to silence dissent, such as sedition or defamation. In this sense, authorities can also censor speech, stifle critical voices, and hinder investigative journalism when legal protections are lax or applied selectively.People can freely express their thoughts, access a variety of information, and hold those in positions of authority accountable when there is a strong media legal framework in place.
+
+### Absence of Media Censorship
+
+The Absence of Media Censorship component assesses how much traditional media functions without government-enforced limitations, including prior censorship, prohibitions on content, or punitive actions against journalists and media organizations. In an unrestricted media landscape, news outlets can cover stories without fear of governmental interference, political influence, or legal consequences. However, in the presence of censorship, authorities can alter information, stifle opposition, and manage public narratives, therefore restricting access to a variety of viewpoints.This means that the media can independently research, evaluate policy, and educate the public when there is no censorship of the media, and therefore encourages responsibility, openness, and democratic participation by giving everyone unrestricted access to reliable and varied information.
+
+### Internet Users’ Privacy Protection
+
+Internet Users’ Privacy Protection evaluates how well individuals’ online information is secured against monitoring, unauthorized access, or abuse by governments, corporations, or harmful entities. These digital liberties depend on robust privacy safeguards, enabling individuals to communicate, seek information, and share views without the anxiety of surveillance or backlash.It is significant to note that inadequate privacy regulations or excessive monitoring can result in self-censorship, diminishing public discussions and restricting engagement in online environments. This shows that users are more inclined to participate in online activism and democratic debates when they believe their data is more secure and private.The strong legal and technological protections guarantee that internet platforms continue to be venues for open information sharing and free speech.
+
+### Absence of Online Censorship
+
+The Absence of Online Censorship component measures the degree to which people can access and distribute information online without interference from businesses or governments. It is essential to highlight that censorship can manifest in different ways, such as blocking websites, limiting social media, removing content, or shutting down the internet, all of which restrict the free flow of ideas.When online censorship is widespread, it stifles dissent, limits democratic engagement, and hinders access to various individual viewpoints. People can converse, share information, and take part in international discussions without worrying about interference when there is a free and open digital space. Therefore, maintaining low levels of internet censorship promotes democratic expression and digital rights. 
+
+Accompanying this section please see the printed summary statistics table (below) and correlation matrix (below) of the 6 component variables that are used in the construction of the MDFI scores. 
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+library(dplyr)
+library(knitr)
+library(kableExtra)
+
+iiag.data <- read.csv("2024 IIAG_Processed Data.csv",
+                      header = TRUE,
+                      na.strings = c("", ".", "NA"))
+
+index.variables <- data.frame(iiag.data$Country,
+                              iiag.data$Year,
+                              iiag.data$Political.Context,
+                              iiag.data$Media.Impartiality,
+                              iiag.data$Legal.Framework,
+                              iiag.data$Absence.of.Media.Censorship,
+                              iiag.data$Internet.Users..Privacy.Protection,
+                              iiag.data$Absence.of.Online.Censorship)
+
+clean.index.variables <- na.omit(index.variables[, c("iiag.data.Country",
+                                                     "iiag.data.Year",
+                                                     "iiag.data.Political.Context",
+                                                     "iiag.data.Media.Impartiality",
+                                                     "iiag.data.Legal.Framework",
+                                                     "iiag.data.Absence.of.Media.Censorship",
+                                                     "iiag.data.Internet.Users..Privacy.Protection",
+                                                     "iiag.data.Absence.of.Online.Censorship")])
+
+index.variables.22 <- subset(clean.index.variables, iiag.data.Year == 2022)
+
+#  kableExtra for a polished table ---
+kable(index.variables.22,
+      caption = "IIAG Indicators for 2022",
+      align = "c") %>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"),
+                full_width = FALSE, position = "center") %>%
+  row_spec(0, bold = TRUE, background = "#f2f2f2")
+
+# Correlation matrix
+num.index.variables.22 <- index.variables.22[, sapply(index.variables.22, is.numeric)]
+cnum.index.variables.22 <- num.index.variables.22[, apply(num.index.variables.22, 2, function(x) var(x, na.rm = TRUE) != 0)]
+cor.mat <- cor(cnum.index.variables.22, use = "complete.obs")
+
+kable(cor.mat,
+      digits = 2,
+      caption = "Correlation Matrix of IIAG Indicators (2022)") %>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"),
+                full_width = FALSE, position = "center") %>%
+  row_spec(0, bold = TRUE, background = "#f2f2f2")
+
+
+
+
+```
+
+# Constructing the Index
+In order to create a meaningful and comparable Media and Digital Freedom Index (MDFI), it is essential to first transform each component measure that is derived from different units and scales onto a common scale. The transformation will allow for a better coherent aggregation of the diverse indicators included in the index including Political Context; Media Impartiality; Legal Framework; Absence of Media Censorship; Protection of Internet Users’ Privacy; and Lack of Online Censorship. Since an index is made up of a combination of multiple measured variables, it is highly possible that in the absence of such standardisation, certain measures may dominate the index more because of their numerical range than because of their actual significance, as seen from the Ibrahim Index of African Governance methodology text (2024: 9) that “at source, the variables collected are produced on different scales and can also have different polarities.” 
+
+It is therefore essential that before being incorporated into the MDFI, the IIAG variables must be transformed and standardised for them to be meaningfully combined and compared. All component scores for this index are converted onto a standardized scale from 0 to 1 using Min-Max Normalization. With this method, the actual observed value of a variable is subtracted from its least observed value, and the result is divided by the range, which is the difference between the maximum and minimum values. What this does is that it “performs an order preserving linear transformation of the data, in which the maximum value in the raw data becomes the highest score and the minimum value in the raw data becomes the lowest score for each variable” (IIAG, 2024: 9). The formula is shown below:
+
+$$
+x_{normalized} = \frac{x - \min(x)}{\max(x) - \min(x)}
+$$
+We could use a country specific example, using the min-max normalisation on Botswana’s Political Context score where it measured 55.63:
+
+$$
+x_{\text{normalized}} = \frac{55.63 - 29.63}{73.86 - 29.63} = \frac{26}{44.23} \approx 0.588
+$$
+
+```{r, message=FALSE, warning=FALSE}
+
+# Min-Max Normalization Formula:
+# Normalized Score = (X - Min) / (Max - Min)
+
+# Botswana's score
+botswana_score <- 55.63
+
+# Min-max normalization
+normalized_botswana <- (botswana_score - min(index.variables.22$iiag.data.Political.Context)) / 
+                       (max(index.variables.22$iiag.data.Political.Context) - min(index.variables.22$iiag.data.Political.Context))
+
+
+```
+
+This approach was selected for multiple reasons. Initially, it ensures that every component can be compared directly by rescaling them to fit within the same limited range. Secondly, the normalised values are straightforward to understand for governance indicators – where a score of 0 represents the lowest observed performance level, and 1 signifies the highest. On the third note, it maintains the original distribution and relative placement of the values, which is helpful for differentiating between nations on a spectrum of freedom. Although other techniques such as z-score normalization (which standardizes values based on mean and standard deviation) could also be used, min-max scaling is more appropriate for this index. It avoids negative values, which may be harder to interpret in a policy or public context and provides a clear representation of how far a country’s score is from the lowest and highest performers. Considering that the total number of countries in the sample is quite small (N= 33) the influence of outliers remains restricted and controllable.
+
+In terms of the question of whether any of the distributions of component measures are highly skewed, the visual examination of the component measures on the histograms and density plots (printed below), show that there is no significant indication of extreme skewness that would require transformation. Although certain variables show slight skewness, these discrepancies do not greatly affect the overall distribution to necessitate corrective actions like logarithmic transformation. In fact, the efforts to log-transform the variables with an unusual skewness such as the Absence of Media Censorship and Absence of Online Censorship (both measured on a scale ranging from 0 to 100, with higher scores indicating less censorship) produced distributions that seemed more of irregular and harder to interpret, thus jeopardizing the integrity of the data. Thus, it is justifiable to consider these variables as adequately normal for min-max standardisation 
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+# Are the distributions of any component measures highly skewed, so that they should be transformed even before putting them onto a common scale (such as the log transformation of GNI per capita in the HDI)?
+
+#Political Context Meausure 2022
+hist((cnum.index.variables.22$iiag.data.Political.Context), 
+     main = "Histogram of Political Context 2022", 
+     xlab = "Political Context", 
+     col = "lightblue", 
+     border = "black",
+     freq = FALSE)
+lines(density(cnum.index.variables.22$iiag.data.Political.Context),
+      col = "red")
+
+#Media Impartiality Measure 2022
+hist((cnum.index.variables.22$iiag.data.Media.Impartiality),
+     main = "Histogram of Media Impartiality 2022",
+     xlab = "Media Impartiality",
+     col = "lightblue",
+     border = "black",
+     freq = FALSE)
+lines(density(cnum.index.variables.22$iiag.data.Media.Impartiality),
+      col = "red")
+
+#Legal Framework Meausre 2022
+hist((cnum.index.variables.22$iiag.data.Legal.Framework),
+     main = "Histogram Of Legal Framework 2022",
+     xlab = "Legal Framework",
+     col = "lightblue",
+     border = "black",
+     freq = FALSE)
+lines(density(cnum.index.variables.22$iiag.data.Legal.Framework),
+      col = "red")
+
+#Absence of Media Censorship
+hist((cnum.index.variables.22$iiag.data.Absence.of.Media.Censorship),
+     main = "Histogram of Absence of Media Censorship 2022",
+     xlab = "Absence of Media Censorship",
+     col = "lightblue",
+     border = "black",
+     freq = FALSE)
+lines(density(cnum.index.variables.22$iiag.data.Absence.of.Media.Censorship), 
+      col = "red")
+#Internet Users Privacy Protection
+hist((cnum.index.variables.22$iiag.data.Internet.Users..Privacy.Protection),
+     main = "Histogram of Internet Users Privacy Protection 2022",
+     xlab = "Internet Users Privacy Protection",
+     col = "lightblue",
+     border = "black",
+     freq = FALSE)
+lines(density(cnum.index.variables.22$iiag.data.Internet.Users..Privacy.Protection),
+      col = "red")
+
+#Absence of online Censorship
+hist((cnum.index.variables.22$iiag.data.Absence.of.Online.Censorship),
+     main = "Histogram of Absense of Online Censorship 2022",
+     xlab = "Absence of Online Censorship",
+     col = "lightblue",
+     border = "black",
+     freq = FALSE)
+lines(density((num.index.variables.22$iiag.data.Absence.of.Online.Censorship)),
+      col = "red")
+
+```
+
+Following normalization, the adjusted values of all six components are then merged to produce the ultimate MDFI score. This is accomplished by calculating the arithmetic mean of the six normalized component scores, assigning equal importance to each. The outcome is then multiplied by 100 to represent the ultimate index score on a range from 0 to 100:
+
+$$
+\text{MDFI Score} = \left( \frac{\sum_{i=1}^{6} \text{Normalized Component Scores}_i}{6} \right) \times 100
+$$
+Essentially, this equal-weighting approach presumes that every element of media and digital freedom contributes uniformly to the overall idea. The final score provides a clear and equitable snapshot of a nation’s media and digital freedom status, allowing for international comparisons and highlighting areas that require improvement. Utilizing min-max normalization in conjunction with arithmetic averaging presents a methodologically sound and analytically transparent approach for constructing the Media and Digital Freedom Index (MDFI).
+
+To have a practical example, the following below is a detailed step by step aggregation of Botswana's MDFI's component scores, and the calculation of the nation's 2022 MDFI score. 
+
+### Political Context Normalization
+
+The formula for normalization is:
+
+\[
+\text{Normalized Political Context} = \frac{X - \min(X)}{\max(X) - \min(X)}
+\]
+
+Substituting the values:
+
+\[
+\text{Normalized Political Context} = \frac{55.63 - 29.63}{73.86 - 29.63} = \frac{26.00}{44.23} = 0.587
+\]
+
+### Media Impartiality Normalization
+
+The formula for normalization is:
+
+\[
+\text{Normalized Media Impartiality} = \frac{X - \min(X)}{\max(X) - \min(X)}
+\]
+
+Substituting the values:
+
+\[
+\text{Normalized Media Impartiality} = \frac{0.750 - 0.104}{0.876 - 0.104} = \frac{0.646}{0.772} = 0.836
+\]
+
+### Legal Framework Normalization
+
+The formula for normalization is:
+
+\[
+\text{Normalized Legal Framework} = \frac{X - \min(X)}{\max(X) - \min(X)}
+\]
+
+Substituting the values:
+
+\[
+\text{Normalized Legal Framework} = \frac{58.07 - 30.19}{79.62 - 30.19} = \frac{27.88}{49.43} = 0.564
+\]
+
+### Absence of Media Censorship Normalization
+
+The formula for normalization is:
+
+\[
+\text{Normalized Absence of Media Censorship} = \frac{X - \min(X)}{\max(X) - \min(X)}
+\]
+
+Substituting the values:
+
+\[
+\text{Normalized Absence of Media Censorship} = \frac{25 - 0}{50 - 0} = \frac{25}{50} = 0.500
+\]
+
+### Internet Privacy Normalization
+
+The formula for normalization is:
+
+\[
+\text{Normalized Internet Privacy} = \frac{X - \min(X)}{\max(X) - \min(X)}
+\]
+
+Substituting the values:
+
+\[
+\text{Normalized Internet Privacy} = \frac{3.345 - 0.550}{3.888 - 0.550} = \frac{2.795}{3.338} = 0.837
+\]
+
+### Absence of Online Censorship Normalization
+
+The formula for normalization is:
+
+\[
+\text{Normalized Absence of Online Censorship} = \frac{X - \min(X)}{\max(X) - \min(X)}
+\]
+
+Substituting the values:
+
+\[
+\text{Normalized Absence of Online Censorship} = \frac{50 - 0}{75 - 0} = \frac{50}{75} = 0.667
+\]
+
+---
+
+## Step 2: Calculation of MDFI Score
+
+Now, we will calculate the MDFI Score using the following formula:
+
+\[
+\text{MDFI Score} = \left( \frac{\sum_{i=1}^{6} \text{Normalized Component Scores}_i}{6} \right) \times 100
+\]
+
+Substitute the normalized values:
+
+\[
+\text{MDFI Score} = \left( \frac{0.587 + 0.836 + 0.564 + 0.500 + 0.837 + 0.667}{6} \right) \times 100
+\]
+
+First, calculate the sum of the normalized component scores:
+
+\[
+\text{Sum of Normalized Component Scores} = 0.587 + 0.836 + 0.564 + 0.500 + 0.837 + 0.667 = 3.991
+\]
+
+Now, calculate the average:
+
+\[
+\frac{\text{Sum of Normalized Component Scores}}{6} = \frac{3.991}{6} = 0.665
+\]
+
+Finally, calculate the MDFI score:
+
+\[
+\text{MDFI Score} = 0.665 \times 100 = 66.5
+\]
+
+Thus, the final MDFI score for Botswana is:
+
+\[
+\text{MDFI Score} = 66.5
+\]
+
+
+### Testing the Validity of the MDFI 
+```{r Test, message=FALSE, warning=FALSE}
+library(knitr)
+library(kableExtra)
+
+Validity.index.variables <- (iiag.data[, c("Country","Year", "Political.Context", "Media.Impartiality", "Legal.Framework", 
+                                           "Absence.of.Media.Censorship", "Internet.Users..Privacy.Protection", "Absence.of.Online.Censorship",
+                                           "Freedom.to.Express.Personal.Opinion", "Reporting.of.Election.Monitoring.Agencies", 
+                                           "Equal.Party.Access.to.State.Owned.Media")])
+
+Validity.index.variables.22 <- subset(Validity.index.variables, Year == 2022)
+
+num.validity.index.variable.22 <- Validity.index.variables.22[, sapply(Validity.index.variables.22, is.numeric)]
+
+cnum.validity.index.variable.22 <- num.validity.index.variable.22[, apply(num.validity.index.variable.22, 2, function(x) var(x, na.rm = TRUE)!=0)]
+
+# Correlation matrix
+correlation <- cor(cnum.validity.index.variable.22, use="complete.obs")
+
+#Publishable table with kableExtra ---
+kable(correlation, digits = 2, caption = "Correlation Matrix of Validity Indicators (2022)") %>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"),
+                full_width = FALSE, position = "center") %>%
+  row_spec(0, bold = TRUE, background = "#f2f2f2") %>%
+  column_spec(1, bold = TRUE)
+
+
+
+
+```
+
+The correlation matrix above, serves as a helpful assessment of the Media and Digital Freedom Index (MDFI) by analysing the relationship between three measures not accounted for in the index specifically, Freedom to Express Personal Opinion, Reporting of Election Monitoring Agencies, and Equal Party Access to State-Owned Media, and the components that the MDFI encompasses. The reasoning is that if the MDFI is effectively measuring the extent of media and digital freedom in a nation, it should be positively associated with factors that indicate wider political expression, information accessibility, and institutional equity.
+
+Among the three, Freedom to Express Personal Opinion consistently demonstrates robust positive correlations with various elements of the MDFI, such as Media Impartiality (0.605), Legal Framework (0.513), and Privacy Protection for Internet Users (0.511). This implies that when censorship is minimal and media organizations are more neutral, people are generally more inclined to share their opinions, a clear sign that the MDFI accurately reflects this aspect of freedom. In a similar manner, Equal Party Access to State Owned Media shows a strong correlation with various index components, particularly with Freedom to Express Personal Opinion (0.559), Political Context (0.459), and Lack of Media Censorship (0.495).This suggests that equitable access to state media is closely tied to political transparency and a media landscape free of censorship, reinforcing the theoretical importance of these elements in the index.
+
+In comparison, the Reporting of Election Monitoring Agencies shows relatively low correlations across many components, with the highest correlation found with Absence of Media Censorship (0.424) and Legal Framework (0.421). Its lesser overall connection to the other variables indicates that although it might be somewhat related to media and digital freedom, it probably represents wider electoral integrity more than the particular freedoms that the MDFI aims to assess. The general significant observation here is that the pattern of relationships supports the legitimacy of the MDFI. The two external variables most closely related to media and digital freedom, being Freedom to Express Personal Opinion and Equal Access for Parties to State-Owned Media, show strong positive correlations with index components. This confirms that the MDFI is both methodologically robust and theoretically consistent in assessing media and digital freedom.
+
+# Interpreting the Index 
+
+The table below provides the measures of the component variables used in the construction of the Media and Digital Freedom Index and also provides the index score measures of the 33 African countries from the year 2022. The Ibrahim Index of African Governance has data of up to 34 countries, but due to not having data on some of the index components, particularly on the 'Internet Users Privacy' measure, Eritrea has been excluded from the index calculation. 
+```{r Index, message=FALSE, warning=FALSE}
+# Constructing the Index 
+
+# Assuming the dataset is called index.variables.22 and already loaded
+
+# I will specify the component columns 
+components <- c(
+  "iiag.data.Political.Context", 
+  "iiag.data.Media.Impartiality", 
+  "iiag.data.Legal.Framework", 
+  "iiag.data.Absence.of.Media.Censorship", 
+  "iiag.data.Internet.Users..Privacy.Protection", 
+  "iiag.data.Absence.of.Online.Censorship"
+)
+
+# Here I will normalise each component (x-min)/(max -min)
+
+for (comp in components) {
+  norm_col <- paste0("Norm_", comp)
+  min_val <- min(index.variables.22[[comp]], na.rm = TRUE)
+  max_val <- max(index.variables.22[[comp]], na.rm = TRUE)
+  index.variables.22[[norm_col]] <- (index.variables.22[[comp]] - min_val) / (max_val - min_val)
+}
+
+# Create MDFI score column: mean of normalized components × 100
+norm_cols <- paste0("Norm_", components)
+index.variables.22$MDFI_Score <- rowMeans(index.variables.22[, norm_cols], na.rm = TRUE) * 100
+
+# View the updated dataset
+MDFI_score <- index.variables.22[,c(
+  "iiag.data.Political.Context", 
+  "iiag.data.Media.Impartiality", 
+  "iiag.data.Legal.Framework", 
+  "iiag.data.Absence.of.Media.Censorship", 
+  "iiag.data.Internet.Users..Privacy.Protection", 
+  "iiag.data.Absence.of.Online.Censorship",
+  "MDFI_Score")]
+library(knitr)
+
+library(kableExtra)
+
+# Create a clean table with custom formatting
+MDFI_score_table <- index.variables.22[, c(
+  "iiag.data.Country", 
+  "iiag.data.Political.Context", 
+  "iiag.data.Media.Impartiality", 
+  "iiag.data.Legal.Framework", 
+  "iiag.data.Absence.of.Media.Censorship", 
+  "iiag.data.Internet.Users..Privacy.Protection", 
+  "iiag.data.Absence.of.Online.Censorship",
+  "MDFI_Score")]
+rownames(MDFI_score_table) <- 1:nrow (MDFI_score_table) 
+MDFI_score_table.clean <- MDFI_score_table[, !names(MDFI_score_table) %in% "Row_Number"]
+# Generate the table
+kable(MDFI_score_table.clean, 
+      caption = "Media and Digital Freedom Index (MDFI) Scores for 2022",
+      digits = 2, 
+      align = "c") %>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed"), 
+                full_width = FALSE,
+                font_size = 12)
+```
+
+As noted from Balkin’s (2004) idea of digital freedom as a way to promote democratic culture through participatory expression and Takirambudde’s (1995) conception of media freedom as a key component of democratic transformation, MDFI score is crucial for assessing how much citizens and organizations in a nation can access, create, and disseminate information freely via conventional media such as print and broadcasting, and digital channels including social media and the web. The index validly mirrors the overall health of a country's democratic systems, civil society, and general freedom of speech, this is because media and digital freedom are fundamental for democratic participation, as they provide the means for informed decision-making, public debate, and accountability of government actions. This means that a higher score indicates a strong level of media and digital freedom in a country, while a low score on the MDFI indicates significant restrictions on media and digital freedom. Below are the summary measures of the Index: 
+
+```{r Summary}
+summary(MDFI_score_table.clean$MDFI_Score)
+```
+
+The lowest MDFI score observed of (10.01) out a perfect score of 100 is for the country of Djibouti. This means that in countries that score low like Djibouti there are significant restrictions on media and digital freedom, where the government can heavily regulate or censor media entities, limit access to online platforms, or silence dissenting viewpoints from the public. This is a sign that there could be significant restrictions on freedom of expression, such as monitoring, jailing of journalists or activists, and restricted access to various information sources. According to Berg and Hofman (2021: 11) nations with limited media freedom might encounter issues tied to authoritarianism, media monopolies, or significant government intervention, all of which weaken democratic practices and the capacity of citizens to make the government answerable.
+
+
+This experience might be totally opposite for a country like Gambia which has the highest MDFI score of (85.50), showing the strongest level of media and digital freedom. In such countries, the public enjoys a lively, varied, and autonomous media environment, encompassing both traditional formats such as newspapers and television and digital platforms like social media and blogs (Berg & Hofman, 2021: 6) . The citizens and institutions are probably able to express their views freely, access diverse information, and engage in democratic activities. This generally indicates a healthy democracy, in which the government doesn’t overly monitor or limit information shared and heard by the public. It is clear from the observed mean of (50.81) that most of the nations have a middle score average, which show that they typically experience some degree of media and digital freedom but may face certain challenges. For instance a Country like Gabon with a MDFI score of 50.22, might have government regulation on media content, limitations on online platforms, or coercion of journalists and content producers. From Berg & Hofman's (2021: 12) ideas, it could be said that the average middle scores reflect a country in transition, where media freedom is growing but still faces political, corporate, or societal pressures.
+
+The Histogram (below) displays the distribution of MDFI scores. It is visible that distribution is right-skewed or we may say positively skewed, as evidenced by the longer tail extending toward the higher scores on the right side. Most of the data on the scores is concentrated on the left side of the histogram, with the highest density occurring around the lower to mid-range scores (approximately 20–50). Essentially, the overall distribution suggests that lower MDFI scores are more common, while higher scores (above 60) are less frequent but still present, creating the rightward tail. This right-skewed distribution implies that the mean score is likely lower than the median, as the lowest values pull the average score downward. The pattern clearly indicates that most observations cluster around moderate scores, with a smaller subset achieving significantly higher values. The overall distribution of the scores indicates that the majority of countries possess moderate degrees of media and digital freedom, whereas a lesser number of nations show considerably elevated levels of freedom. This suggests that, generally, media and digital freedom could be more limited in numerous African nations, with just a handful of countries showing significantly better protection for media and digital rights. 
+
+```{r MDFIhist, message=FALSE, warning=FALSE}
+hist((MDFI_score_table.clean$MDFI_Score),
+     main = "Histogram of Media and Digital Index Scores",
+     xlab = "MDFI score",
+     col = "lightblue",
+     border = "black",
+     freq = FALSE)
+lines(density(MDFI_score_table.clean$MDFI_Score),
+      col = "red")
+```
+
+
+# Conclusion 
+This report focused on using data from the Ibrahim Index of African Governance 2024 to develop the Media and Digital Freedom Index (MDFI) that measures the level of media and digital freedoms across nations, particularly within the context of advancing democratic values and ensuring accountability in governance. The theoretical underpinnings stem from the understanding that media freedom is vital for facilitating public discourse, informing citizenry, and promoting active participation in the democratic process, an ideal shared under the banner of democratic media theories. Therefore, by assessing the absence of censorship, legal protections, and freedom of access, the MDFI seeks to provide a comprehensive picture of how well individuals and institutions can engage in the free exchange of information in both traditional and digital media. In constructing the MDFI, a systematic approach was taken to standardize various components, including Political Context, Media Impartiality, Legal Framework, Absence of Media Censorship, Internet Users’ Privacy Protection, and Absence of Online Censorship, using Min-Max Normalization. This process allowed for the unweighted arithmetic mean aggregation of diverse indicators into a coherent MDFI index, therefore, reflecting the multifaceted nature of media freedom across different regions in Africa.
+
+The advantages of the MDFI are in its capability to translate intricate concepts into a single score, simplifying the analysis of trends and the comparison of nations. It promotes attention to vital elements of media and digital liberties, assisting policymakers and advocates in pinpointing areas that need enhancement. However, the index has weaknesses, including potential oversimplification of nuanced issues and variations in data reliability across regions. While the index captures essential dimensions of media freedom, it may not fully encompass cultural, societal, or historical factors influencing various media landscapes in different nations. With that idea, the MDFI serves as a valuable tool for assessment, which might be improved, when employed alongside qualitative analyses for a more profound understanding of media and digital freedoms.
+
+## Reference List
+
+1. Balkin, J. M. (2017). *Digital speech and democratic culture: A theory of freedom of expression for the information society*. In *Law and Society approaches to cyberspace* (pp. 325–382). Routledge.  
+2. Berg, S., & Hofmann, J. (2021). *Digital democracy*. *Internet Policy Review, 10*(4), 1–23.  
+3. Mo Ibrahim Foundation. (2024). *Ibrahim Index of African Governance – Methodology*. 1–15.  
+4. Takirambudde, P. N. (1995). *Media freedom and the transition to democracy in Africa*. *Afr. J. Int'l & Comp. L., 7*, 18.  
+
+
+
