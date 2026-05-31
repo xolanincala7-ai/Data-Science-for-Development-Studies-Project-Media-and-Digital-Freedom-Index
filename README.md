@@ -1,10 +1,10 @@
 # Data-Science-for-Development-Studies-Project (Media and Digital Freedom Index Construction)
 This repo contains a Masters in Devolpment Studies Analyses using Data Science methods to consruct MDF Index. 
 
-
+# Project Preview: 
 
 # Media and Digital Freedom Index (MDFI)  
-*Part of my MA‑E‑Science portfolio — please read this project*
+*Part of my MA‑E‑Science portfolio — please read this project on .html file**
 
 ## Project Purpose  
 This project develops the **Media and Digital Freedom Index (MDFI)** to measure openness of media and digital spaces across African countries. It combines indicators of press freedom, legal protections, censorship, and online privacy to capture both structural and cultural dimensions of freedom.
@@ -21,7 +21,7 @@ The MDFI proved **methodologically robust and theoretically consistent**, showin
 
 
 
- **Please read this project** — it is part of my **Master of Arts in E‑Science** work, applying data science methods to political and development studies.  
+ **Please read this project (.html file)** — it is part of my **Master of Arts in E‑Science** work, applying data science methods to political and development studies.  
 
 
 
