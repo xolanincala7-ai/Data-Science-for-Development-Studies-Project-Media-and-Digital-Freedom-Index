@@ -2,6 +2,7 @@
 This repo contains a Masters in Devolpment Studies Analyses using Data Science methods to consruct MDF Index. 
 
 # Project Preview: 
+Screenshot: https://github.com/xolanincala7-ai/Data-Science-for-Development-Studies-Project-Media-and-Digital-Freedom-Index/blob/main/MDFI_screenshot.png
 
 # Media and Digital Freedom Index (MDFI)  
 *Part of my MA‑E‑Science portfolio — please read this project on .html file**
